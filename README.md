@@ -1,6 +1,8 @@
 # Miatuino ECU NA6 PNP
+<img src="https://github.com/user-attachments/assets/3b163c0d-8062-4994-85b1-077876a0c4ef" width="400">
 
 MiatuinoはSpeeduinoをベースとしたNA6ロードスター専用ECUプロジェクトです。
+
 Speeduino MX-5 PNPモデルをベースとし、部品の入手性、組み立てやすさなどを改善しました。
 
 基本的な技術情報については公式のWikiを参照してください。
